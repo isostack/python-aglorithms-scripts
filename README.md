@@ -15,7 +15,7 @@ Developers can use, modify and perfect these algorithms and push them back into 
 
 ### Contribution Guidelines
 
-The contribution guidelines are as per the guide [HERE](https://github.com/larymak/Python-project-Scripts/blob/main/CONTRIBUTING.md).
+The contribution guidelines are as per the guide [HERE](https://github.com/isostack/simple-syntax-python/blob/main/CONTRIBUTING.md).
 
 ### Instructions
 
