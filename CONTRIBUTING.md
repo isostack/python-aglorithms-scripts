@@ -1,4 +1,4 @@
-# Contributing to Python-Project-Scripts
+# Contributing to Simple-syntax-python
 
 - Fork this repository
 - Clone your forked repository
