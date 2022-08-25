@@ -36,13 +36,13 @@ The contribution guidelines are as per the guide [HERE](https://github.com/isost
 
 | PJ No | Project                                                                                                                                | Author                                                  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1     | [Celcius convertor](https://github.com/isostack/simple-syntax-python/tree/main/CELCIUS-FAHRENHEIT)                                     | [Lary Mak](https://github.com/larymak)                  |
-| 2     | [Chunky monkey](https://github.com/isostack/simple-syntax-python/tree/main/CHUNKY-MONKEY)                                               | [Logan Ozdyck](https://github.com/ozdyck3)              |
-| 3     | [Factorialize](https://github.com/isostack/simple-syntax-python/tree/main/FACTORIALIZE)                                             | [Lary Mak](https://github.com/larymak)                  |
-| 4     | [Finders keepers](https://github.com/isostack/simple-syntax-python/tree/main/FINDERS-KEEPERS)                                                       | [Lary Mak](https://github.com/larymak)                  |
-| 5     | [Longest word in string](https://github.com/isostack/simple-syntax-python/tree/main/LONGEST-WORD-IN-STRING)                                        | [Lary Mak](https://github.com/larymak)                  |
-| 6     | [Max of list](https://github.com/isostack/simple-syntax-python/tree/main/MAX-OF-LIST)                                              | [Lary Mak](https://github.com/larymak)                  |
-| 7     | [Mutation](https://github.com/isostack/simple-syntax-python/tree/main/MUTATION)                                       | [Lary Mak](https://github.com/larymak)                  |
-| 8     | [Reverse a string](https://github.com/isostack/simple-syntax-python/tree/main/REVERSE-A-STRING)                                     | [Lary Mak](https://github.com/larymak)                  |
-| 9     | [Truncate a string](https://github.com/isostack/simple-syntax-python/tree/main/TRUNCATE-A-STRING)                                               | [Lary Mak](https://github.com/larymak)                  |
-| 10    | [Where do i belong](https://github.com/isostack/simple-syntax-python/tree/main/WHERE-DO-I-BELONG)                                | [Gagan prajapatii](https://github.com/Gagan1111)        |
+| 1     | [Celcius convertor](https://github.com/isostack/simple-syntax-python/tree/main/CELCIUS-FAHRENHEIT)                                     | [Iso stack](https://github.com/isostack)                  |
+| 2     | [Chunky monkey](https://github.com/isostack/simple-syntax-python/tree/main/CHUNKY-MONKEY)                                               | [Iso stack](https://github.com/isostack)              |
+| 3     | [Factorialize](https://github.com/isostack/simple-syntax-python/tree/main/FACTORIALIZE)                                             | [Iso stack](https://github.com/isostack)                  |
+| 4     | [Finders keepers](https://github.com/isostack/simple-syntax-python/tree/main/FINDERS-KEEPERS)                                                       | [Iso stack](https://github.com/isostack)                  |
+| 5     | [Longest word in string](https://github.com/isostack/simple-syntax-python/tree/main/LONGEST-WORD-IN-STRING)                                        | [Iso stack](https://github.com/isostack)                  |
+| 6     | [Max of list](https://github.com/isostack/simple-syntax-python/tree/main/MAX-OF-LIST)                                              | [Iso stack](https://github.com/isostack)                  |
+| 7     | [Mutation](https://github.com/isostack/simple-syntax-python/tree/main/MUTATION)                                       | [Iso stack](https://github.com/isostack)                  |
+| 8     | [Reverse a string](https://github.com/isostack/simple-syntax-python/tree/main/REVERSE-A-STRING)                                     | [Iso stack](https://github.com/isostack)                  |
+| 9     | [Truncate a string](https://github.com/isostack/simple-syntax-python/tree/main/TRUNCATE-A-STRING)                                               | [Iso stack](https://github.com/isostack)                  |
+| 10    | [Where do i belong](https://github.com/isostack/simple-syntax-python/tree/main/WHERE-DO-I-BELONG)                                | [Iso stack](https://github.com/isostack)        |
