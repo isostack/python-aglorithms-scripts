@@ -2,11 +2,16 @@
 
 ### Description
 
-Welcome on board fellow developer, this repo is a collection of various programming algorithms written in python syntax and everyone is free to contribute to
+Welcome on board fellow developer, this repo is a collection of various programming algorithms written in python language with litle lines of code.
 
-Python's simple syntax makes it very easy to implement algorithms and understand what is going in a program and this collection shows how simple and easy the python syntax is.
+The python language's simple syntax makes it very easy to implement algorithms and understand what is going in a program and this collection shows how simple and easy the python syntax is.
 
-You can contribute by adding your scripts, also written in Python, to add to the collection of smart simple python algorithms which you think would be amazing for other people to see.
+You can contribute by adding any algorithms script, also written in Python, to the collection of algorithms, which you think would be amazing for other people to see and use in thier various programs.
+
+### How to install and run
+
+If you want to run any of the python scripts you can clone the project unto your local machine and run the python files 
+Developers can use, modify and perfect these algorithms and push them back into the project back here
 
 ### Contribution Guidelines
 
@@ -21,7 +26,6 @@ The contribution guidelines are as per the guide [HERE](https://github.com/larym
 - Create a pull request
 - Star this repository
 - Wait for pull request to merge
-- Celebrate your first step into the open source world and contribute more
 
 -----------
 
