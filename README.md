@@ -34,9 +34,9 @@ The contribution guidelines are as per the guide [HERE](https://github.com/larym
 
 ## Projects
 
-| SR No | Project                                                                                                                                | Author                                                  |
+| PJ No | Project                                                                                                                                | Author                                                  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1     | [Ascii Image Converter](https://github.com/larymak/Python-project-Scripts/tree/main/ART%20SCRIPTS/image-ascii)                                     | [Lary Mak](https://github.com/larymak)                  |
+| 1     | [Celcius convertor](https://github.com/isostack/simple-syntax-python/tree/main/CELCIUS-FAHRENHEIT)                                     | [Lary Mak](https://github.com/larymak)                  |
 | 2     | [DigitalClock](https://github.com/larymak/Python-project-Scripts/tree/main/TIME%20SCRIPTS/DigitalClock)                                               | [Logan Ozdyck](https://github.com/ozdyck3)              |
 | 3     | [Insta Spam Bot](https://github.com/larymak/Python-project-Scripts/tree/main/BOTS/InstaSpamBot)                                             | [Lary Mak](https://github.com/larymak)                  |
 | 4     | [Pyjokes](https://github.com/larymak/Python-project-Scripts/tree/main/OTHERS/pyjokes)                                                       | [Lary Mak](https://github.com/larymak)                  |
