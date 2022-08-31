@@ -8,18 +8,9 @@ The python language's simple syntax makes it very easy to implement algorithms a
 
 You can contribute by adding any algorithms script, also written in Python, to the collection of algorithms, which you think would be amazing for other people to see and use in thier various programs.
 
-### How to install and run
+### Contributing
 
-If you want to run any of the python scripts you can clone the project unto your local machine and run the python files 
-Developers can use, modify and perfect these algorithms and push them back into the project back here
-
-### Contribution Guidelines
-
-The contribution guidelines are as per the guide [HERE](https://github.com/isostack/simple-syntax-python/blob/main/CONTRIBUTING.md).
-
-### Instructions
-
-- Fork this repository
+- Fork the repository
 - Clone your forked repository
 - Add your scripts
 - Commit and push
@@ -29,12 +20,12 @@ The contribution guidelines are as per the guide [HERE](https://github.com/isost
 
 -----------
 
-#### Note: When you add a project, add it to the README for ease of finding it.
-#### Note: Please do not have the project link reference your local forked repository. Always link it to this repository after it has been merged with main.
+#### Note: When you add a script, add it to the README for ease of finding it.
+#### Note: Please do not have the script link reference your local forked repository. Always link it to this repository after it has been merged with main.
 
-## Projects
+## Written Scripts
 
-| PJ No | Project                                                                                                                                | Author                                                  |
+| PJ No | Script                                                                                                                                | Author                                                  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | 1     | [Celcius convertor](https://github.com/isostack/simple-syntax-python/tree/main/CELCIUS-FAHRENHEIT)                                     | [Iso stack](https://github.com/isostack)                  |
 | 2     | [Chunky monkey](https://github.com/isostack/simple-syntax-python/tree/main/CHUNKY-MONKEY)                                               | [Iso stack](https://github.com/isostack)              |
