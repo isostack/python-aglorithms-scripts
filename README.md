@@ -1,4 +1,4 @@
-# Simple Syntax - Python
+# Python Algorithms/Scripts
 
 ### Description
 
